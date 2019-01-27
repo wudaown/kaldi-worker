@@ -27,7 +27,7 @@ Please, refer to https://docs.docker.com/engine/installation/.
 
 Get the image
 -------------
-
+`docker pull wudaown/docker-kaldi-worker`
 
 * you may build your own image (requires git):
 
